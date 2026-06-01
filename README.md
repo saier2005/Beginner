@@ -1,3 +1,3 @@
 # Beginner
 I‘am still learning～
-这是我的代码仓酷
+这是我的代码仓库
